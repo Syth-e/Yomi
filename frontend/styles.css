@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(100, 100, 200);
+}
+
+.heading {
+    background-color: rgb(150, 150, 200);
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-family: monospace;
+    margin: auto;
+    padding: auto;
+    max-width: 1500px;
+    min-width: 300px;
+    width: 100%;
+    border-bottom: 1px solid rgb(100, 100, 150);
+    text-align: center;
+}
+
+.description {
+    font-family: Verdana;
+    font-weight: 200;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
